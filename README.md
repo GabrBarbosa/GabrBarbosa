@@ -5,7 +5,6 @@
 </p>
 
 <p align="center">
-  <a href="https://isesmt.com.br"><img src="https://img.shields.io/badge/ISESMT-0d1117?style=flat-square&logo=googlechrome&logoColor=58a6ff" alt="ISESMT" /></a>
   <a href="https://instagram.com/gabriel.ribeirob"><img src="https://img.shields.io/badge/@gabriel.ribeirob-0d1117?style=flat-square&logo=instagram&logoColor=E4405F" alt="Instagram" /></a>
 </p>
 
@@ -36,7 +35,7 @@ Desenvolvedor de Sistemas na [ISESMT](https://isesmt.com.br). Trabalho principal
 ### Trabalhos recentes
 
 - **[AvaliaNR17](https://avalianr17.com.br)**: landing page
-- **[GerenciaSST](https://gerenciasst.com.br)**: landing page
+- **[GerenciaSST](https://www.gerenciasst.com.br/demo-gerencia)**: landing page
 - **[ISESMT](https://isesmt.com.br)**: site institucional
 
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:1f6feb,100:0d1117&height=100&section=footer" alt="" />
