@@ -31,11 +31,3 @@
 | [AvaliaNR17](https://avalianr17.com.br) | Landing page |
 | [GerenciaSST](https://gerenciasst.com.br) | Landing page |
 | [ISESMT](https://isesmt.com.br) | Site institucional |
-
-### Contribuições
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/GabrBarbosa/GabrBarbosa/output/snake-dark.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/GabrBarbosa/GabrBarbosa/output/snake.svg" />
-  <img alt="Gráfico de contribuições" src="https://raw.githubusercontent.com/GabrBarbosa/GabrBarbosa/output/snake.svg" />
-</picture>
