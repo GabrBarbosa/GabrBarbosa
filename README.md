@@ -1,33 +1,42 @@
-<h1 align="center">Olá, eu sou o Gabriel 👋</h1>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,100:1f6feb&height=170&section=header&text=Gabriel%20Ribeiro&fontColor=ffffff&fontSize=42&fontAlignY=38&desc=Desenvolvedor%20de%20Sistemas&descAlignY=58&descSize=16" alt="Gabriel Ribeiro" />
 
 <p align="center">
-  Desenvolvedor de Sistemas na <a href="https://isesmt.com.br">ISESMT</a> · Front-end · UI/UX · Automação
+  <img src="https://readme-typing-svg.demolab.com?font=Inter&weight=500&size=17&pause=1800&color=8B949E&center=true&vCenter=true&width=520&lines=Front-end+com+React+e+TypeScript;Design+de+interfaces+e+UI%2FUX;Automa%C3%A7%C3%B5es+e+integra%C3%A7%C3%B5es" alt="Front-end, UI/UX e automação" />
 </p>
 
 <p align="center">
-  <a href="https://instagram.com/gabriel.ribeirob">
-    <img src="https://img.shields.io/badge/Instagram-0d1117?style=for-the-badge&logo=instagram&logoColor=E4405F" alt="Instagram" />
-  </a>
+  <a href="https://isesmt.com.br"><img src="https://img.shields.io/badge/ISESMT-0d1117?style=flat-square&logo=googlechrome&logoColor=58a6ff" alt="ISESMT" /></a>
+  <a href="https://instagram.com/gabriel.ribeirob"><img src="https://img.shields.io/badge/@gabriel.ribeirob-0d1117?style=flat-square&logo=instagram&logoColor=E4405F" alt="Instagram" /></a>
 </p>
 
----
+<br />
 
-### Sobre mim
+### Sobre
 
-- Front-end com **React**, **TypeScript** e **Tailwind CSS**
-- Design de interfaces e UI/UX no **Figma**
-- Automações e integrações com **Node.js** e **Python**
+Desenvolvedor de Sistemas na [ISESMT](https://isesmt.com.br). Trabalho principalmente no front-end, com foco em UI/UX, e cuido de automações e integrações entre sistemas.
 
-### Ferramentas
+<br />
 
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=react,ts,js,nextjs,vite,tailwind,html,css,nodejs,express,prisma,supabase,py,figma,git,github,vscode&perline=9" alt="Ferramentas" />
-</p>
+### Stack
+
+**Front-end**
+
+<img src="https://skillicons.dev/icons?i=react,ts,js,nextjs,vite,tailwind,html,css&theme=dark" alt="Front-end" />
+
+**Back-end e automação**
+
+<img src="https://skillicons.dev/icons?i=nodejs,express,prisma,supabase,py&theme=dark" alt="Back-end e automação" />
+
+**Ferramentas**
+
+<img src="https://skillicons.dev/icons?i=git,github,vscode&theme=dark" alt="Ferramentas" />
+
+<br />
 
 ### Trabalhos recentes
 
-| Projeto | O que fiz |
-| --- | --- |
-| [AvaliaNR17](https://avalianr17.com.br) | Landing page |
-| [GerenciaSST](https://gerenciasst.com.br) | Landing page |
-| [ISESMT](https://isesmt.com.br) | Site institucional |
+- **[AvaliaNR17](https://avalianr17.com.br)**: landing page
+- **[GerenciaSST](https://gerenciasst.com.br)**: landing page
+- **[ISESMT](https://isesmt.com.br)**: site institucional
+
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:1f6feb,100:0d1117&height=100&section=footer" alt="" />
