@@ -1,4 +1,4 @@
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,100:1f6feb&height=170&section=header&text=Gabriel%20Ribeiro&fontColor=ffffff&fontSize=42&fontAlignY=38&desc=Desenvolvedor%20de%20Sistemas&descAlignY=58&descSize=16" alt="Gabriel Ribeiro" />
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,100:1f6feb&height=170&section=header&text=Gabriel%20Ribeiro&fontColor=ffffff&fontSize=42&fontAlignY=38&desc=Desenvolvedor%20de%20Sistemas&descAlignY=58&descSize=16" alt="Gabriel Ribeiro Barbosa" />
 
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Inter&weight=500&size=17&pause=1800&color=8B949E&center=true&vCenter=true&width=520&lines=Front-end+com+React+e+TypeScript;Design+de+interfaces+e+UI%2FUX;Automa%C3%A7%C3%B5es+e+integra%C3%A7%C3%B5es" alt="Front-end, UI/UX e automação" />
