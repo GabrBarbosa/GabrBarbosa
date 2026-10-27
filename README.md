@@ -20,15 +20,32 @@ Desenvolvedor de Sistemas na [ISESMT](https://isesmt.com.br). Trabalho principal
 
 **Front-end**
 
-<img src="https://skillicons.dev/icons?i=react,ts,js,nextjs,vite,tailwind,html,css&theme=dark" alt="Front-end" />
+<img src="https://skillicons.dev/icons?i=react,nextjs,ts,js,vite,tailwind,html,css&theme=dark" alt="Front-end" />
 
 **Back-end e automação**
 
-<img src="https://skillicons.dev/icons?i=nodejs,express,prisma,supabase,py&theme=dark" alt="Back-end e automação" />
+<img src="https://skillicons.dev/icons?i=nodejs,express,py,fastapi,prisma,postgres,supabase&theme=dark" alt="Back-end e automação" />
 
-**Ferramentas**
+**Deploy e ferramentas**
 
-<img src="https://skillicons.dev/icons?i=git,github,vscode&theme=dark" alt="Ferramentas" />
+<img src="https://skillicons.dev/icons?i=docker,vercel,git,github,vitest,vscode&theme=dark" alt="Deploy e ferramentas" />
+
+**Bibliotecas**
+
+<p>
+  <img src="https://img.shields.io/badge/shadcn%2Fui-161b22?style=flat-square&logo=shadcnui&logoColor=white" alt="shadcn/ui" />
+  <img src="https://img.shields.io/badge/Radix_UI-161b22?style=flat-square&logo=radixui&logoColor=white" alt="Radix UI" />
+  <img src="https://img.shields.io/badge/HeroUI-161b22?style=flat-square&logo=heroui&logoColor=white" alt="HeroUI" />
+  <img src="https://img.shields.io/badge/Framer_Motion-161b22?style=flat-square&logo=framer&logoColor=white" alt="Framer Motion" />
+  <img src="https://img.shields.io/badge/GSAP-161b22?style=flat-square&logo=greensock&logoColor=88CE02" alt="GSAP" />
+  <img src="https://img.shields.io/badge/TanStack_Query-161b22?style=flat-square&logo=reactquery&logoColor=FF4154" alt="TanStack Query" />
+  <img src="https://img.shields.io/badge/React_Hook_Form-161b22?style=flat-square&logo=reacthookform&logoColor=EC5990" alt="React Hook Form" />
+  <img src="https://img.shields.io/badge/Zod-161b22?style=flat-square&logo=zod&logoColor=3E67B1" alt="Zod" />
+  <img src="https://img.shields.io/badge/Recharts-161b22?style=flat-square&logo=chartdotjs&logoColor=white" alt="Recharts" />
+  <img src="https://img.shields.io/badge/Expo-161b22?style=flat-square&logo=expo&logoColor=white" alt="Expo" />
+  <img src="https://img.shields.io/badge/Better_Auth-161b22?style=flat-square&logo=auth0&logoColor=white" alt="Better Auth" />
+  <img src="https://img.shields.io/badge/OpenAI_API-161b22?style=flat-square&logo=openai&logoColor=white" alt="OpenAI API" />
+</p>
 
 <br />
 
